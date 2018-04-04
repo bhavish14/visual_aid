@@ -1,0 +1,1 @@
+curl -i --form image=@/home/bhavishk/Pictures/Interstellar.jpg http://127.0.0.1:8000/upload/ --output /home/bhavishk/Music/Project/test.mp3
